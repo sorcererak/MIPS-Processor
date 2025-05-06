@@ -11,9 +11,9 @@ Indian Institute of Technology, Kanpur
 ## Project Structure
 ```
 ├── README.md
-├── assignment_8.pdf        # Assignment details
-├── instructions_encoding.txt # Sample instruction encodings
-└── processor.v             # Verilog implementation of the processor
+├── assignment_8.pdf            # Assignment details
+├── instructions_encoding.txt   # Sample instruction encodings
+└── processor.v                 # Verilog implementation of the processor
 ```
 
 ## Processor Architecture
